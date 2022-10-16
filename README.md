@@ -1,22 +1,29 @@
-# FinanceInfoConsole
-<b>Console version for future web versions </b>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=FinanceInfoConsole&fontSize=90" />
 
-Eclipse
-<br>
-Spring Boot
-<br>
-Jsoup library
-<br>
-===============================================================
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayNamgung&layout=compact)](https://github.com/JayNamgung/github-readme-stats)
-<br>
-<br>
-<b>Ver 1.0</b>
-<br>
+## Console version for future web versions
+
+<div align=left><h3>:hammer: Tools</h3></div>
+<div align=left>
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+</div>
+
+<div align=left><h3>📚 STACKS</h3></div>
+<div align=left>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+</div>
+
+***
+
+<h3>Ver 1.0</h3>
+
+
 [2022.10.16]
-<br>
+<div>
 * Successful spread crawling by credit rating in Korea
-<br>
-//TODO : Add Credit Spread Calculation Results
-<br>
-//TODO : Add partial crawling results
+</div>
+
+- [ ] Add Credit Spread Calculation Results
+
+- [ ] Add partial crawling results
