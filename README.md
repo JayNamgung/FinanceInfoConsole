@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=FinanceInfoConsole&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=FinanceInfoConsole&fontSize=30" />
 
 ## Console version for future web versions
 
