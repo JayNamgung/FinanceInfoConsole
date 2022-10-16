@@ -1,5 +1,5 @@
 # FinanceInfoConsole
-<b>Console version for future web versions</b>
+<b>Console version for future web versions </b>
 
 Eclipse
 <br>
@@ -8,9 +8,10 @@ Spring Boot
 Jsoup library
 <br>
 ===============================================================
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayNamgung&layout=compact)](https://github.com/JayNamgung/github-readme-stats)
 <br>
 <br>
-Ver 1.0
+<b>Ver 1.0</b>
 <br>
 [2022.10.16]
 <br>
