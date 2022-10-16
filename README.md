@@ -27,3 +27,5 @@
 - [ ] Add Credit Spread Calculation Results
 
 - [ ] Add partial crawling results
+
+<img src="https://user-images.githubusercontent.com/115405092/196025362-2ee6150d-745c-4cc8-bb1f-4fb5cf3fda86.png">
